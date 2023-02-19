@@ -11,6 +11,8 @@
     "sourceType": "module"
   },
   "rules": {
-    "import/extensions": "off"
+    "import/extensions": "off",
+    "no-unused-vars": "warn",
+    "arrow-body-style" : "warn"
   }
 }
