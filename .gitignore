@@ -1,0 +1,5 @@
+# gitignore v0.0.1
+
+/node_modules
+/.vscode
+.env
